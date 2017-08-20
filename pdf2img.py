@@ -22,5 +22,5 @@ def pdf2img(file_path, images_path):
 
 if __name__ == '__main__':
     pdf = 'test.pdf'
-    path = '/home/ubuntu/image.jpg'   
+    path = '/home/ubuntu/image/'   
     pdf2img(pdf, path)
